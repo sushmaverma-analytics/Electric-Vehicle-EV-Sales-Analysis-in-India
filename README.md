@@ -31,9 +31,11 @@ Build an interactive Power BI dashboard for stakeholders
 ## Three datasets were used:
 
 ### Dataset	Description	Key Columns
-electric_vehicle_sales_by_state	State-wise EV sales, total vehicle sales, and category	date, state, vehicle_category, electric_vehicles_sold, total_vehicles_sold
-electric_vehicle_sales_by_makers	Manufacturer-wise EV sales	date, maker, vehicle_category, electric_vehicles_sold
-dim_date	Date hierarchy for time-based analysis	date, fiscal_year, quarter, month, month_
+| Dataset | Description | Key Columns |
+|---------|-------------|-------------|
+| electric_vehicle_sales_by_state | State-wise EV sales, total vehicle sales, and category | date, state, vehicle_category, electric_vehicles_sold, total_vehicles_sold |
+| electric_vehicle_sales_by_makers | Manufacturer-wise EV sales | date, maker, vehicle_category, electric_vehicles_sold |
+| dim_date | Date hierarchy for time-based analysis | date, fiscal_year, quarter, month, month_name |
 
 Data period: April 2021 – March 2024 (fiscal years 2022–2024) Rows: 2,445 (state-level) · 816 (maker-level) · 36 (date dimension)
 
