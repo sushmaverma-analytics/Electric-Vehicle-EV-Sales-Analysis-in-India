@@ -45,7 +45,35 @@ Data storage & cleaning	SQL (MySQL)
 Exploratory Data Analysis	Python (Pandas, NumPy, Matplotlib, Seaborn)
 Notebook environment	Jupyter Notebook
 Dashboard & visualization	Power BI
-Version control	Git & GitHub
+BI
+
+#🔧 What Was Done
+
+## SQL 
+— Checked for nulls, duplicates, blank text, and negative values; trimmed whitespace; removed duplicate rows; created a Penetration_Rate column (EV sales ÷ total sales × 100).
+
+## Python
+— Loaded and profiled all 3 datasets, engineered date features (Year, Month, Weekday), checked for outliers, and built visualizations (top states, top manufacturers, category distribution) with insights and business impact for each.
+
+## Power BI
+— Built an interactive dashboard with state-wise sales, manufacturer ranking, category split, and penetration trend, with slicers for state/maker/time period.
+
+# 🔍 Key Insights
+Maharashtra, Karnataka, and Tamil Nadu lead in EV adoption
+2-Wheelers dominate the market (~92.6%) vs 4-Wheelers (~7.4%)
+OLA Electric is the top manufacturer, followed by TVS and Ather
+EV sales are concentrated in a few states, showing uneven adoption
+4-Wheeler EV adoption is still low — a growth opportunity
+# 📁 Files in This Repo
+EV.sql — data cleaning & validation queries
+EV_EDA.ipynb / EV.pdf — full Python EDA with charts and commentary
+EV_Dashboard_L3.pbix — interactive Power BI dashboard
+
+## 📷 Add a dashboard screenshot here for a quick visual preview.
+
+## 👤 Author
+
+## Sushma Verma — Individual project, Data Analytics portfolio
 
 
 
