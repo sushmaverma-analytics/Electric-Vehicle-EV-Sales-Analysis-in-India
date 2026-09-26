@@ -70,7 +70,8 @@ Data period: April 2021 – March 2024 (fiscal years 2022–2024) Rows: 2,445 (s
 - EV_Dashboard_L3.pbix — interactive Power BI dashboard
 
 ## 📷 Add a dashboard screenshot here for a quick visual preview.
-<img width="1146" height="650" alt="Image 1" src="https://github.com/user-attachments/assets/d6e3e3d6-db63-43a7-802e-c4e4931c4d8d" />
+<img width="1297" height="728" alt="Screenshot 2026-09-27 040010" src="https://github.com/user-attachments/assets/43867ccf-0850-4d0d-9e48-c39eeb31b9f6" />
+
 
 ## 👤 Author
 
